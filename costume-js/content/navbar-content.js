@@ -35,10 +35,10 @@ const navbarContent = `
           <div class="ico navbar-nav ms-auto d-flex flex-row px-2 px-lg-2 px-xl-2">
 
             <a class="nav-link active" href="https://youtube.com/c/warthasensei">
-              <i class="bi bi-youtube "></i>
+              <i class="bi bi-youtube"></i>
             </a>
             <a class="nav-link active" href="https://twitter.com/banu485">
-              <i class="bi bi-twitter "></i>
+              <i class="bi bi-twitter-x"></i>
             </a>
             <a class="nav-link active" href="https://instagram.com/hewartsu">
               <i class="bi bi-instagram"></i>
