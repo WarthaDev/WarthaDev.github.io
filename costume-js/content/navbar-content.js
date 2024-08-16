@@ -40,7 +40,7 @@ const navbarContent = `
             <a class="nav-link active" href="https://twitter.com/banu485">
               <i class="bi bi-twitter-x"></i>
             </a>
-            <a class="nav-link active" href="https://instagram.com/hewartsu">
+            <a class="nav-link active" href="https://www.instagram.com/mobilelegendsgame">
               <i class="bi bi-instagram"></i>
             </a>
             <a class="nav-link active" href="https://open.spotify.com/artist/7imN5UpqCoekwIGXiOgLh4?si">
