@@ -24,7 +24,7 @@ const navbarContent = `
               <a class="nav-link" aria-current="page" href="../../index.html">Home</a>
             </li>
             <li class="nav-item" id="nav-document">
-              <a class="nav-link" href="https://linktr.ee/hewartsu">Donation</a>
+              <a class="nav-link" href="https://linktr.ee/hewartsu">Support</a>
             </li>
             <li class="nav-item id="nav-document"">
               <a class="nav-link" href="../../html/showcase/showcase-3.html">Mods</a>
@@ -40,7 +40,7 @@ const navbarContent = `
             <a class="nav-link active" href="https://twitter.com/banu485">
               <i class="bi bi-twitter-x"></i>
             </a>
-            <a class="nav-link active" href="https://www.instagram.com/mobilelegendsgame">
+            <a class="nav-link active" href="https://www.instagram.com/warthasensei">
               <i class="bi bi-instagram"></i>
             </a>
             <a class="nav-link active" href="https://open.spotify.com/artist/7imN5UpqCoekwIGXiOgLh4?si">
