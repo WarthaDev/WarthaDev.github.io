@@ -27,7 +27,7 @@ const navbarContent = `
               <a class="nav-link" href="https://linktr.ee/hewartsu">Donation</a>
             </li>
             <li class="nav-item id="nav-document"">
-              <a class="nav-link" href="../../html/showcase/showcase-3.html">Document</a>
+              <a class="nav-link" href="../../html/showcase/showcase-3.html">Mods</a>
             </li>
 
           </ul>
